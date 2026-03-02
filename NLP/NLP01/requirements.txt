@@ -1,0 +1,11 @@
+# Seq2Seq 번역기 의존성
+sentencepiece
+torch
+pandas
+numpy
+matplotlib
+konlpy
+mecab-python3
+
+# tqdm는 PyPI에서 설치
+tqdm
